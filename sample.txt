@@ -1,2 +1,1 @@
-this is sample hybris
-for git
+this is bsg sap hybris

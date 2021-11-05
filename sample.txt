@@ -1,4 +1,3 @@
 this is sample hybris
 for git
-This is edited by Mary 
-Edited it again
+Hello there!How are you friends?
